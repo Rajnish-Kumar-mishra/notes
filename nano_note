@@ -2,9 +2,17 @@
 
 ------------------------------------------------	
 nano filename.py
+#for creating the file
+
 content
 
 ctrl+o for save
+-----------------------------------------
 ctrl+X for exit program
+---------------------------------------------
+cat filename
+#to check the code written inside
 -----------------------------------------------
+rm filename
+#to delete the program created
 

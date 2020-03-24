@@ -3,3 +3,59 @@ create and save a regular program
 to check the program written use cat filename
 use python3 filename.py to execute the program created
 ------------------
+GIT commands
+
+
+git init
+#to track the files which are created
+
+
+---------------------------------
+
+git status
+# to check how many files are untracked
+-----------------------------------------
+
+
+git clone url of git repository
+#it connects the git hub folder/repository to termial 
+
+
+------------------------------------------------------------
+
+
+
+
+git add    filename 
+
+# to check which files are need to be commited
+
+
+------------------------------------------------------------------------------
+
+for the configuration of git hub email and password
+#write the example syntax and insert the email and passoword
+
+-------------------------------------------------------------------
+
+git commit -m "message to describe the reason of changes" 
+
+
+# for commiting the files which are created until now
+
+--------------------------------------------------------------
+git log 
+
+
+## to check the files which are connited until now ( history timelines) 
+
+--------------------------------------------------------
+
+git checkout first_four_letters of any file from git log
+#to remove the file from git log
+
+------------------------------------------- 
+git push 
+#to access the files globally or moving the files into repository
+
+-----------------------------------------
