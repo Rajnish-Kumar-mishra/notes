@@ -1,0 +1,15 @@
+-----------------
+download balena etcher
+download iso files for linux or ubuntu
+choosing the PD run the balena etcher selecting the iso file and flash the PD
+give a restart
+
+-------------------
+open the BIOS menu during restart by pressing DEL key
+change the BIOS optin to legac
+in security tab change secured boot to disable
+save and exit using F10
+-----------------
+during restart open BOOT order using F11 key
+select the PD
+-----------------
