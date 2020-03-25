@@ -59,3 +59,5 @@ git push
 #to access the files globally or moving the files into repository
 
 -----------------------------------------
+git remote add username their_url.git
+to sync the work of other
